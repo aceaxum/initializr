@@ -1,0 +1,11 @@
+[package]
+name = "initializr"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "A axum initializr"
+authors = ["axum.rs <team@axum.rs>"]
+repository = "https://github.com/aceaxum/initializr.git"
+homepage = "https://axum.rs"
+
+[dependencies]
